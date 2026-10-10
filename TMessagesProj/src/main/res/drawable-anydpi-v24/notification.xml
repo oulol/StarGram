@@ -4,12 +4,12 @@
     android:viewportWidth="90"
     android:viewportHeight="90"
     android:tint="#FFFFFF">
-  <group android:scaleX="1.127451"
-      android:scaleY="1.127451"
-      android:translateX="-5.7352943"
-      android:translateY="-5.7352943">
+  <group android:scaleX="0.92"
+      android:scaleY="0.92"
+      android:translateX="3.6"
+      android:translateY="3.6">
     <path
-        android:pathData="M 45 25 Q 45 45 25 45 Q 45 45 45 65 Q 45 45 65 45 Q 45 45 45 25 Z"
+        android:pathData="M 45 5 Q 45 45 5 45 Q 45 45 45 85 Q 45 45 85 45 Q 45 45 45 5 Z"
         android:strokeWidth="1"
         android:fillColor="#FFFFFF"
         android:fillType="evenOdd"
